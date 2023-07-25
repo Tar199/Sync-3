@@ -41,7 +41,7 @@ const music_list = [
     },
     {
         img : 'Assets/Dalle_64.jpg',
-        name : 'Mahesh Dalle',
+        name : 'Dalle',
         artist : 'Unknow, Someone',
         music : 'Assets/Dalle.mp3'
     },
